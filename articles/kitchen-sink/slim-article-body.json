@@ -1,0 +1,273 @@
+[
+  {
+    "type": "PARAGRAPH",
+    "text": "Over two days in late April 2023, The Economist spent over eight hours in conversation with Dr Kissinger. Just weeks before his 100th birthday, the former secretary of state and national security adviser laid out his concerns about the risks of great power conflict and offered solutions for how to avoid it. This is a transcript of the conversation, lightly edited for clarity.",
+    "annotations": [
+      {
+        "type": "drop_caps",
+        "index": 0,
+        "length": 1
+      },
+      {
+        "type": "italic",
+        "index": 0,
+        "length": 378
+      },
+      {
+        "type": "scaps",
+        "index": 1,
+        "length": 7
+      }
+    ],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "PARAGRAPH",
+    "text": "Just some bold text",
+    "annotations": [
+      {
+        "type": "bold",
+        "index": 0,
+        "length": 19
+      }
+    ],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "PARAGRAPH",
+    "text": "The Economist: Dr Kissinger, thank you so much for doing this. The topic of our conversation is how to avoid a third world war. The relationship between the us and China, the two most important countries in the world, seems genuinely broken, on a path that could end in conflict. We want to talk about how to avoid this. And we want to talk about how to create a more stable global order. That involves more than the us and China: we will need to discuss the roles of Russia, of Europe, of India, and others. But can we start with how great is the risk of war? Are we on a path to great power conflict?",
+    "annotations": [
+      {
+        "type": "bold",
+        "index": 0,
+        "length": 13
+      }
+    ],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "PARAGRAPH",
+    "text": "Final results from the vote count on June 4th revealed that Mr Modi’s alliance fell well below that target. The bjp and its allies won 292 seats, compared with the opposition’s 234. The bjp itself lost 63 seats compared with the last election in 2019, ending with a tally of 240, down from 303 in 2019. Crucially, that means that it will rely on its alliance partners to control parliament (272 seats are needed for a majority). The spectacle of the Modi machine faltering has shocked the public, the political world and financial markets: the country’s benchmark share index fell by 6%.",
+    "annotations": [
+      {
+        "type": "external_link",
+        "index": 0,
+        "length": 13,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/interactive/india-election-results-2024-modi-gandhi"
+          }
+        ]
+      }
+    ],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "PARAGRAPH",
+    "text": "Another paragraph that begins with a link.",
+    "annotations": [
+      {
+        "type": "external_link",
+        "index": 0,
+        "length": 7,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.youtube.com/watch?v=DETFJgJnSok&pp=ygUJZWNvbm9taXN0"
+          },
+          {
+            "name": "new_window",
+            "value": "true"
+          }
+        ]
+      }
+    ],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "DIVIDER",
+    "text": null,
+    "annotations": null,
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "PARAGRAPH",
+    "text": "In this respect, the sight of Mr Biden and American veterans on the Normandy beaches will constitute both a solemn homage to the strengt3h of the transatlantic alliance, and a sober reminder that it can no longer be taken for granted. Mr Biden may turn out to be one of America’s last great Atlanticists, of a generation that instinctively looked to Europe and made it a priority.",
+    "annotations": [
+      {
+        "type": "external_link",
+        "index": 216,
+        "length": 17,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/united-states/2023/11/23/the-sort-of-isolationist-case-for-backing-ukraine"
+          }
+        ]
+      }
+    ],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "INFOBOX",
+    "text": null,
+    "annotations": null,
+    "components": [
+      {
+        "text": "Stay up to date with our new daily update, The us in brief, and our presidential poll tracker.",
+        "type": "PARAGRAPH",
+        "annotations": [
+          {
+            "type": "external_link",
+            "index": 43,
+            "length": 15,
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/us-in-brief"
+              }
+            ]
+          },
+          {
+            "type": "external_link",
+            "index": 81,
+            "length": 12,
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/interactive/us-2024-election/trump-biden-polls/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Read more of our coverage of the us elections of 2024.",
+        "type": "PARAGRAPH",
+        "annotations": [
+          {
+            "type": "italic",
+            "index": 0,
+            "length": 54
+          },
+          {
+            "type": "external_link",
+            "index": 33,
+            "length": 20,
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/us-election-2024"
+              },
+              {
+                "name": "new_window",
+                "value": "false"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "items": []
+  },
+  {
+    "type": "UNORDERED_LIST",
+    "text": null,
+    "annotations": null,
+    "components": null,
+    "items": [
+      {
+        "type": null,
+        "text": "The first item",
+        "annotations": [],
+        "components": null
+      },
+      {
+        "type": null,
+        "text": "The second item",
+        "annotations": [
+          {
+            "type": "bold",
+            "index": 11,
+            "length": 4
+          }
+        ],
+        "components": null
+      },
+      {
+        "type": null,
+        "text": "An item",
+        "annotations": [
+          {
+            "type": "subscript",
+            "index": 3,
+            "length": 4
+          }
+        ],
+        "components": null
+      }
+    ]
+  },
+  {
+    "type": "PARAGRAPH",
+    "text": "x2 paragraph",
+    "annotations": [
+      {
+        "type": "subscript",
+        "index": 3,
+        "length": 9
+      }
+    ],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "PARAGRAPH",
+    "text": "A line that begins with the letter A",
+    "annotations": [],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "BOOK_INFO",
+    "text": "Whatever this is",
+    "annotations": [],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "PULL_QUOTE",
+    "text": "Lets see if the quote works",
+    "annotations": [],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "BLOCK_QUOTE",
+    "text": "This is a block quote",
+    "annotations": [
+      {
+        "type": "bold",
+        "index": 10,
+        "length": 5
+      }
+    ],
+    "components": null,
+    "items": []
+  },
+  {
+    "type": "CROSSHEAD",
+    "text": "Do you still understand me? (Translations)",
+    "annotations": [],
+    "components": null,
+    "items": []
+  }
+]

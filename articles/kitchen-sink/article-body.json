@@ -1,0 +1,461 @@
+[
+  {
+    "text": "Over two days in late April 2023, The Economist spent over eight hours in conversation with Dr Kissinger. Just weeks before his 100th birthday, the former secretary of state and national security adviser laid out his concerns about the risks of great power conflict and offered solutions for how to avoid it. This is a transcript of the conversation, lightly edited for clarity.",
+    "type": "PARAGRAPH",
+    "textHtml": "<i><span data-caps=\"initial\">O</span><small>ver two</small> days in late April 2023, The Economist spent over eight hours in conversation with Dr Kissinger. Just weeks before his 100th birthday, the former secretary of state and national security adviser laid out his concerns about the risks of great power conflict and offered solutions for how to avoid it. This is a transcript of the conversation, lightly edited for clarity.</i>",
+    "textJson": [
+      {
+        "type": "italic",
+        "children": [
+          {
+            "type": "drop_caps",
+            "children": [
+              {
+                "type": "text",
+                "value": "O"
+              }
+            ]
+          },
+          {
+            "type": "scaps",
+            "children": [
+              {
+                "type": "text",
+                "value": "ver two"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": " days in late April 2023, The Economist spent over eight hours in conversation with Dr Kissinger. Just weeks before his 100th birthday, the former secretary of state and national security adviser laid out his concerns about the risks of great power conflict and offered solutions for how to avoid it. This is a transcript of the conversation, lightly edited for clarity."
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "type": "drop_caps",
+        "index": 0,
+        "length": 1
+      },
+      {
+        "type": "italic",
+        "index": 0,
+        "length": 378
+      },
+      {
+        "type": "scaps",
+        "index": 1,
+        "length": 7
+      }
+    ]
+  },
+  {
+    "text": "Just some bold text",
+    "type": "PARAGRAPH",
+    "textHtml": "<b>Just some bold text</b>",
+    "textJson": [
+      {
+        "type": "bold",
+        "children": [
+          {
+            "type": "text",
+            "value": "Just some bold text"
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "type": "bold",
+        "index": 0,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "text": "The Economist: Dr Kissinger, thank you so much for doing this. The topic of our conversation is how to avoid a third world war. The relationship between the us and China, the two most important countries in the world, seems genuinely broken, on a path that could end in conflict. We want to talk about how to avoid this. And we want to talk about how to create a more stable global order. That involves more than the us and China: we will need to discuss the roles of Russia, of Europe, of India, and others. But can we start with how great is the risk of war? Are we on a path to great power conflict?",
+    "type": "PARAGRAPH",
+    "textHtml": "<b>The Economist</b>: Dr Kissinger, thank you so much for doing this. The topic of our conversation is how to avoid a third world war. The relationship between the us and China, the two most important countries in the world, seems genuinely broken, on a path that could end in conflict. We want to talk about how to avoid this. And we want to talk about how to create a more stable global order. That involves more than the us and China: we will need to discuss the roles of Russia, of Europe, of India, and others. But can we start with how great is the risk of war? Are we on a path to great power conflict?",
+    "textJson": [
+      {
+        "type": "bold",
+        "children": [
+          {
+            "type": "text",
+            "value": "The Economist"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": ": Dr Kissinger, thank you so much for doing this. The topic of our conversation is how to avoid a third world war. The relationship between the us and China, the two most important countries in the world, seems genuinely broken, on a path that could end in conflict. We want to talk about how to avoid this. And we want to talk about how to create a more stable global order. That involves more than the us and China: we will need to discuss the roles of Russia, of Europe, of India, and others. But can we start with how great is the risk of war? Are we on a path to great power conflict?"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "bold",
+        "index": 0,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "text": "Final results from the vote count on June 4th revealed that Mr Modi’s alliance fell well below that target. The bjp and its allies won 292 seats, compared with the opposition’s 234. The bjp itself lost 63 seats compared with the last election in 2019, ending with a tally of 240, down from 303 in 2019. Crucially, that means that it will rely on its alliance partners to control parliament (272 seats are needed for a majority). The spectacle of the Modi machine faltering has shocked the public, the political world and financial markets: the country’s benchmark share index fell by 6%.",
+    "type": "PARAGRAPH",
+    "textHtml": "<a href=\"https://www.economist.com/interactive/india-election-results-2024-modi-gandhi\">Final results</a> from the vote count on June 4th revealed that Mr Modi’s alliance fell well below that target. The bjp and its allies won 292 seats, compared with the opposition’s 234. The bjp itself lost 63 seats compared with the last election in 2019, ending with a tally of 240, down from 303 in 2019. Crucially, that means that it will rely on its alliance partners to control parliament (272 seats are needed for a majority). The spectacle of the Modi machine faltering has shocked the public, the political world and financial markets: the country’s benchmark share index fell by 6%.",
+    "textJson": [
+      {
+        "type": "external_link",
+        "children": [
+          {
+            "type": "text",
+            "value": "Final results"
+          }
+        ],
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/interactive/india-election-results-2024-modi-gandhi"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " from the vote count on June 4th revealed that Mr Modi’s alliance fell well below that target. The bjp and its allies won 292 seats, compared with the opposition’s 234. The bjp itself lost 63 seats compared with the last election in 2019, ending with a tally of 240, down from 303 in 2019. Crucially, that means that it will rely on its alliance partners to control parliament (272 seats are needed for a majority). The spectacle of the Modi machine faltering has shocked the public, the political world and financial markets: the country’s benchmark share index fell by 6%."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "external_link",
+        "index": 0,
+        "length": 13,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/interactive/india-election-results-2024-modi-gandhi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Another paragraph that begins with a link.",
+    "type": "PARAGRAPH",
+    "textHtml": "<a href=\"https://www.youtube.com/watch?v=DETFJgJnSok&pp=ygUJZWNvbm9taXN0\" target=\"_blank\">Another</a> paragraph that begins with a link.",
+    "textJson": [
+      {
+        "type": "external_link",
+        "children": [
+          {
+            "type": "text",
+            "value": "Another"
+          }
+        ],
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.youtube.com/watch?v=DETFJgJnSok&pp=ygUJZWNvbm9taXN0"
+          },
+          {
+            "name": "new_window",
+            "value": "true"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " paragraph that begins with a link."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "external_link",
+        "index": 0,
+        "length": 7,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.youtube.com/watch?v=DETFJgJnSok&pp=ygUJZWNvbm9taXN0"
+          },
+          {
+            "name": "new_window",
+            "value": "true"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "DIVIDER"
+  },
+  {
+    "text": "In this respect, the sight of Mr Biden and American veterans on the Normandy beaches will constitute both a solemn homage to the strengt3h of the transatlantic alliance, and a sober reminder that it can no longer be taken for granted. Mr Biden may turn out to be one of America’s last great Atlanticists, of a generation that instinctively looked to Europe and made it a priority.",
+    "type": "PARAGRAPH",
+    "textHtml": "In this respect, the sight of Mr Biden and American veterans on the Normandy beaches will constitute both a solemn homage to the strengt3h of the transatlantic alliance, and a sober reminder that it can no longer be <a href=\"https://www.economist.com/united-states/2023/11/23/the-sort-of-isolationist-case-for-backing-ukraine\">taken for granted</a>. Mr Biden may turn out to be one of America’s last great Atlanticists, of a generation that instinctively looked to Europe and made it a priority.",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "In this respect, the sight of Mr Biden and American veterans on the Normandy beaches will constitute both a solemn homage to the strengt3h of the transatlantic alliance, and a sober reminder that it can no longer be "
+      },
+      {
+        "type": "external_link",
+        "children": [
+          {
+            "type": "text",
+            "value": "taken for granted"
+          }
+        ],
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/united-states/2023/11/23/the-sort-of-isolationist-case-for-backing-ukraine"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": ". Mr Biden may turn out to be one of America’s last great Atlanticists, of a generation that instinctively looked to Europe and made it a priority."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "external_link",
+        "index": 216,
+        "length": 17,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/united-states/2023/11/23/the-sort-of-isolationist-case-for-backing-ukraine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "INFOBOX",
+    "components": [
+      {
+        "text": "Stay up to date with our new daily update, The us in brief, and our presidential poll tracker.",
+        "type": "PARAGRAPH",
+        "annotations": [
+          {
+            "type": "external_link",
+            "index": 43,
+            "length": 15,
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/us-in-brief"
+              }
+            ]
+          },
+          {
+            "type": "external_link",
+            "index": 81,
+            "length": 12,
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/interactive/us-2024-election/trump-biden-polls/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Read more of our coverage of the us elections of 2024.",
+        "type": "PARAGRAPH",
+        "annotations": [
+          {
+            "type": "italic",
+            "index": 0,
+            "length": 54
+          },
+          {
+            "type": "external_link",
+            "index": 33,
+            "length": 20,
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/us-election-2024"
+              },
+              {
+                "name": "new_window",
+                "value": "false"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "UNORDERED_LIST",
+    "items": [
+      {
+        "text": "The first item",
+        "textHtml": "The first item",
+        "textJson": [
+          {
+            "type": "text",
+            "value": "The first item"
+          }
+        ],
+        "annotations": []
+      },
+      {
+        "text": "The second item",
+        "textHtml": "The second <b>item</b>",
+        "textJson": [
+          {
+            "type": "text",
+            "value": "The second "
+          },
+          {
+            "type": "bold",
+            "children": [
+              {
+                "type": "text",
+                "value": "item"
+              }
+            ]
+          }
+        ],
+        "annotations": [
+          {
+            "type": "bold",
+            "index": 11,
+            "length": 4
+          }
+        ]
+      },
+      {
+        "text": "An item",
+        "textHtml": "An <sub>item</sub>",
+        "textJson": [
+          {
+            "type": "text",
+            "value": "An "
+          },
+          {
+            "type": "subscript",
+            "children": [
+              {
+                "type": "text",
+                "value": "item"
+              }
+            ]
+          }
+        ],
+        "annotations": [
+          {
+            "type": "subscript",
+            "index": 3,
+            "length": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "x2 paragraph",
+    "type": "PARAGRAPH",
+    "textHtml": "x2 <sub>paragraph</sub>",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "x2 "
+      },
+      {
+        "type": "subscript",
+        "children": [
+          {
+            "type": "text",
+            "value": "paragraph"
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "type": "subscript",
+        "index": 3,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "text": "A line that begins with the letter A",
+    "type": "PARAGRAPH",
+    "textHtml": "A line that begins with the letter A",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "A line that begins with the letter A"
+      }
+    ],
+    "annotations": []
+  },
+  {
+    "text": "Whatever this is",
+    "type": "BOOK_INFO",
+    "textHtml": "Whatever this is",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "Whatever this is"
+      }
+    ],
+    "annotations": []
+  },
+  {
+    "text": "Lets see if the quote works",
+    "type": "PULL_QUOTE",
+    "textHtml": "Lets see if the quote works",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "Lets see if the quote works"
+      }
+    ],
+    "annotations": []
+  },
+  {
+    "text": "This is a block quote",
+    "type": "BLOCK_QUOTE",
+    "textHtml": "This is a <b>block</b> quote",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "This is a "
+      },
+      {
+        "type": "bold",
+        "children": [
+          {
+            "type": "text",
+            "value": "block"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " quote"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "bold",
+        "index": 10,
+        "length": 5
+      }
+    ]
+  },
+  {
+    "text": "Do you still understand me? (Translations)",
+    "type": "CROSSHEAD",
+    "annotations": []
+  }
+]

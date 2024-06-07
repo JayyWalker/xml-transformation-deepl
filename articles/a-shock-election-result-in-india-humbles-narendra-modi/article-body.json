@@ -1,0 +1,708 @@
+[
+  {
+    "text": "Editor’s note (June 5th): This article has been updated with the final election results.",
+    "type": "PARAGRAPH",
+    "textHtml": "<i>Editor’s note (June 5th): This article has been updated with the final election results.</i>",
+    "textJson": [
+      {
+        "type": "italic",
+        "children": [
+          {
+            "type": "text",
+            "value": "Editor’s note (June 5th): This article has been updated with the final election results."
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "type": "italic",
+        "index": 0,
+        "length": 88
+      }
+    ]
+  },
+  {
+    "text": "AHEAD OF THE general election that concluded on June 1st Narendra Modi, India’s prime minister, was expected to romp home. His charisma, combined with an emphasis on infrastructure development, welfare payments to the poorest and a polarising Hindu nationalism, looked unbeatable. Mr Modi exuded a confidence that matched those predictions. He claimed that his Bharatiya Janata Party (BJP) and its allies would win upwards of 400 seats in the 543-seat parliament.",
+    "type": "PARAGRAPH",
+    "textHtml": "<span data-caps=\"initial\">A</span><small>HEAD OF THE</small> general election that concluded on June 1st Narendra Modi, India’s prime minister, was expected to romp home. His charisma, combined with an emphasis on infrastructure development, welfare payments to the poorest and a polarising Hindu nationalism, looked unbeatable. Mr Modi exuded a confidence that matched those predictions. He claimed that his Bharatiya Janata Party (<small>BJP</small>) and its allies would win upwards of 400 seats in the 543-seat parliament.",
+    "textJson": [
+      {
+        "type": "drop_caps",
+        "children": [
+          {
+            "type": "text",
+            "value": "A"
+          }
+        ]
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "HEAD OF THE"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " general election that concluded on June 1st Narendra Modi, India’s prime minister, was expected to romp home. His charisma, combined with an emphasis on infrastructure development, welfare payments to the poorest and a polarising Hindu nationalism, looked unbeatable. Mr Modi exuded a confidence that matched those predictions. He claimed that his Bharatiya Janata Party ("
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": ") and its allies would win upwards of 400 seats in the 543-seat parliament."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "drop_caps",
+        "index": 0,
+        "length": 1
+      },
+      {
+        "type": "scaps",
+        "index": 1,
+        "length": 11
+      },
+      {
+        "type": "scaps",
+        "index": 385,
+        "length": 3
+      }
+    ]
+  },
+  {
+    "text": "Final results from the vote count on June 4th revealed that Mr Modi’s alliance fell well below that target. The BJP and its allies won 292 seats, compared with the opposition’s 234. The BJP itself lost 63 seats compared with the last election in 2019, ending with a tally of 240, down from 303 in 2019. Crucially, that means that it will rely on its alliance partners to control parliament (272 seats are needed for a majority). Final results are expected late on Tuesday or early on Wednesday. The spectacle of the Modi machine faltering has shocked the public, the political world and financial markets: the country’s benchmark share index fell by 6%.  \t",
+    "type": "PARAGRAPH",
+    "textHtml": "<a href=\"https://www.economist.com/interactive/india-election-results-2024-modi-gandhi\">Final results</a> from the vote count on June 4th revealed that Mr Modi’s alliance fell well below that target. The BJP and its allies won 292 seats, compared with the opposition’s 234. The BJP itself lost 63 seats compared with the last election in 2019, ending with a tally of 240, down from 303 in 2019. Crucially, that means that it will rely on its alliance partners to control parliament (272 seats are needed for a majority). Final results are expected late on Tuesday or early on Wednesday. The spectacle of the Modi machine faltering has shocked the public, the political world and financial markets: the country’s benchmark share index fell by 6%.  \t",
+    "textJson": [
+      {
+        "type": "external_link",
+        "children": [
+          {
+            "type": "text",
+            "value": "Final results"
+          }
+        ],
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/interactive/india-election-results-2024-modi-gandhi"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " from the vote count on June 4th revealed that Mr Modi’s alliance fell well below that target. The BJP and its allies won 292 seats, compared with the opposition’s 234. The BJP itself lost 63 seats compared with the last election in 2019, ending with a tally of 240, down from 303 in 2019. Crucially, that means that it will rely on its alliance partners to control parliament (272 seats are needed for a majority). Final results are expected late on Tuesday or early on Wednesday. The spectacle of the Modi machine faltering has shocked the public, the political world and financial markets: the country’s benchmark share index fell by 6%.  \t"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "external_link",
+        "index": 0,
+        "length": 13,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/interactive/india-election-results-2024-modi-gandhi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "INFOBOX",
+    "components": [
+      {
+        "text": "Read more of our coverage of the Indian election and see our results page. Or sign up to Essential India, our free weekly newsletter.",
+        "type": "PARAGRAPH",
+        "annotations": [
+          {
+            "type": "italic",
+            "index": 0,
+            "length": 133
+          },
+          {
+            "type": "external_link",
+            "index": 33,
+            "length": 15,
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/india-election-2024"
+              }
+            ]
+          },
+          {
+            "type": "external_link",
+            "index": 61,
+            "length": 12,
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/interactive/india-election-results-2024-modi-gandhi"
+              }
+            ]
+          },
+          {
+            "type": "external_link",
+            "index": 89,
+            "length": 15,
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/newsletters/essential-india"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "The electoral surprise follows a deeply divisive campaign. From the start, opposition politicians and other critics had bemoaned the lack of a level playing field in the election. Opposition politicians were jailed on corruption charges that they called politically motivated. Congress, the main opposition party, said its bank accounts were frozen, hindering campaigning. Meanwhile Mr Modi used at times stridently anti-Muslim campaign rhetoric. All of this may have been motivated by worries about diminishing support for the BJP.",
+    "type": "PARAGRAPH",
+    "textHtml": "The electoral surprise follows a deeply divisive campaign. From the start, opposition politicians and other critics had bemoaned the lack of a level playing field in the election. Opposition politicians were jailed on corruption charges that they called politically motivated. Congress, the main opposition party, said its bank accounts were frozen, hindering campaigning. Meanwhile Mr Modi used at times stridently anti-Muslim campaign rhetoric. All of this may have been motivated by worries about diminishing support for the <small>BJP</small>.",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "The electoral surprise follows a deeply divisive campaign. From the start, opposition politicians and other critics had bemoaned the lack of a level playing field in the election. Opposition politicians were jailed on corruption charges that they called politically motivated. Congress, the main opposition party, said its bank accounts were frozen, hindering campaigning. Meanwhile Mr Modi used at times stridently anti-Muslim campaign rhetoric. All of this may have been motivated by worries about diminishing support for the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": "."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "scaps",
+        "index": 528,
+        "length": 3
+      }
+    ]
+  },
+  {
+    "text": "The biggest upset may turn out to be the giant northern state of Uttar Pradesh (UP) in the BJP’s Hindi-speaking heartland. In 2019 the BJP won 62 of the state’s 80 seats. This time, early results suggested that tally fell to 35, with a vote swing of 9% away from the BJP and its allies. Thirty-five seats are expected to go to the left-wing Samajwadi Party, which is a member of the opposition alliance and focused on the rights of lower-caste groups and religious minorities. The constituencies lost by the BJP include Faizabad, home to the city of Ayodhya, where Mr Modi inaugurated a large new Hindu temple in January. The temple occupies the spot where a mob of Hindu nationalists demolished an ancient mosque in 1992.",
+    "type": "PARAGRAPH",
+    "textHtml": "The biggest upset may turn out to be the giant northern state of Uttar Pradesh (<small>UP</small>) in the <small>BJP</small>’s Hindi-speaking heartland. In 2019 the <small>BJP</small> won 62 of the state’s 80 seats. This time, early results suggested that tally fell to 35, with a vote swing of 9% away from the <small>BJP</small> and its allies. Thirty-five seats are expected to go to the left-wing Samajwadi Party, which is a member of the opposition alliance and focused on the rights of lower-caste groups and religious minorities. The constituencies lost by the <small>BJP</small> include Faizabad, home to the city of Ayodhya, where Mr Modi inaugurated a large new Hindu temple in January. The temple occupies the spot where a mob of Hindu nationalists demolished an ancient mosque in 1992.",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "The biggest upset may turn out to be the giant northern state of Uttar Pradesh ("
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "UP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": ") in the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": "’s Hindi-speaking heartland. In 2019 the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " won 62 of the state’s 80 seats. This time, early results suggested that tally fell to 35, with a vote swing of 9% away from the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " and its allies. Thirty-five seats are expected to go to the left-wing Samajwadi Party, which is a member of the opposition alliance and focused on the rights of lower-caste groups and religious minorities. The constituencies lost by the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " include Faizabad, home to the city of Ayodhya, where Mr Modi inaugurated a large new Hindu temple in January. The temple occupies the spot where a mob of Hindu nationalists demolished an ancient mosque in 1992."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "scaps",
+        "index": 80,
+        "length": 2
+      },
+      {
+        "type": "scaps",
+        "index": 91,
+        "length": 3
+      },
+      {
+        "type": "scaps",
+        "index": 135,
+        "length": 3
+      },
+      {
+        "type": "scaps",
+        "index": 267,
+        "length": 3
+      },
+      {
+        "type": "scaps",
+        "index": 508,
+        "length": 3
+      }
+    ]
+  },
+  {
+    "text": "The BJP also suffered large losses in Rajasthan and in Maharashtra, a rich industrial state in the west that is home to Mumbai, India’s business capital. The seats it lost there mostly went to Congress, which looked on course to nearly double its national seat count to 99, compared with 52 in 2019.",
+    "type": "PARAGRAPH",
+    "textHtml": "The <small>BJP</small> also suffered large losses in Rajasthan and in Maharashtra, a rich industrial state in the west that is home to Mumbai, India’s business capital. The seats it lost there mostly went to Congress, which looked on course to nearly double its national seat count to 99, compared with 52 in 2019.",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "The "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " also suffered large losses in Rajasthan and in Maharashtra, a rich industrial state in the west that is home to Mumbai, India’s business capital. The seats it lost there mostly went to Congress, which looked on course to nearly double its national seat count to 99, compared with 52 in 2019."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "scaps",
+        "index": 4,
+        "length": 3
+      }
+    ]
+  },
+  {
+    "text": "What went wrong for the BJP? Its overall vote share across India stayed more or less the same as in 2019, at around 37%. The party also managed to make some small gains in the south and east, where it had not previously been able to make inroads. Yet its losses in critical areas like UP mean that its power in parliament is set to plummet. A sense that the economy is not delivering for ordinary people may have been a big factor: despite strong growth figures, voters cited inflation and unemployment as concerns. The upset in UP and Rajasthan may reflect worries among members of lower castes that the BJP might roll back affirmative-action policies. The opposition had tapped into such fears, emphasising Mr Modi’s closeness to oligarchs and claiming that the BJP might remove constitutional protections for lower-caste groups and religious minorities. Critically the prime minister’s once all-powerful personal appeal has dimmed and has been unable to make up for these concerns.",
+    "type": "PARAGRAPH",
+    "textHtml": "What went wrong for the <small>BJP</small>? Its overall vote share across India stayed more or less the same as in 2019, at around 37%. The party also managed to make some small gains in the south and east, where it had not previously been able to make inroads. Yet its losses in critical areas like <small>UP</small> mean that its power in parliament is set to plummet. A sense that the economy is not delivering for ordinary people may have been a big factor: despite strong growth figures, voters cited inflation and unemployment as concerns. The upset in <small>UP</small> and Rajasthan may reflect worries among members of lower castes that the <small>BJP</small> might roll back affirmative-action policies. The opposition had tapped into such fears, emphasising Mr Modi’s closeness to oligarchs and claiming that the <small>BJP</small> might remove constitutional protections for lower-caste groups and religious minorities. Critically the prime minister’s once all-powerful personal appeal has dimmed and has been unable to make up for these concerns.",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "What went wrong for the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": "? Its overall vote share across India stayed more or less the same as in 2019, at around 37%. The party also managed to make some small gains in the south and east, where it had not previously been able to make inroads. Yet its losses in critical areas like "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "UP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " mean that its power in parliament is set to plummet. A sense that the economy is not delivering for ordinary people may have been a big factor: despite strong growth figures, voters cited inflation and unemployment as concerns. The upset in "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "UP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " and Rajasthan may reflect worries among members of lower castes that the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " might roll back affirmative-action policies. The opposition had tapped into such fears, emphasising Mr Modi’s closeness to oligarchs and claiming that the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " might remove constitutional protections for lower-caste groups and religious minorities. Critically the prime minister’s once all-powerful personal appeal has dimmed and has been unable to make up for these concerns."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "scaps",
+        "index": 24,
+        "length": 3
+      },
+      {
+        "type": "scaps",
+        "index": 285,
+        "length": 2
+      },
+      {
+        "type": "scaps",
+        "index": 529,
+        "length": 2
+      },
+      {
+        "type": "scaps",
+        "index": 605,
+        "length": 3
+      },
+      {
+        "type": "scaps",
+        "index": 764,
+        "length": 3
+      }
+    ]
+  },
+  {
+    "text": "For India three big questions now loom. First, can the BJP form a stable government? The answer is, probably. The BJP will still be by far the biggest party in parliament, with more than twice as many seats as Congress. Unless there is a major rebellion within the party, Mr Modi is likely to be able to continue as prime minister. He will have to strike deals with two of his alliance partners, Telugu Desam and Janata Dal (United), two regional parties from the southern state of Andhra Pradesh and the eastern state of Bihar, respectively. Their leaders, Chandrababu Naidu and Nitish Kumar, will now emerge as kingmakers and attempt to extract favours from the BJP on appointments, benefits for their states and policy. Both are already being courted by the opposition alliance. Mr Kumar, in particular, is notorious for switching sides, presenting a particular risk. Yet given the BJP’s deep pockets, Mr Modi may also be able to entice parties away from the opposition to shore up his alliance.",
+    "type": "PARAGRAPH",
+    "textHtml": "For India three big questions now loom. First, can the <small>BJP</small> form a stable government? The answer is, probably. The <small>BJP</small> will still be by far the biggest party in parliament, with more than twice as many seats as Congress. Unless there is a major rebellion within the party, Mr Modi is likely to be able to continue as prime minister. He will have to strike deals with two of his alliance partners, Telugu Desam and Janata Dal (United), two regional parties from the southern state of Andhra Pradesh and the eastern state of Bihar, respectively. Their leaders, Chandrababu Naidu and Nitish Kumar, will now emerge as kingmakers and attempt to extract favours from the <small>BJP</small> on appointments, benefits for their states and policy. Both are already being courted by the opposition alliance. Mr Kumar, in particular, is notorious for <a href=\"https://www.economist.com/asia/2024/01/28/indias-opposition-bloc-disintegrates\">switching sides</a>, presenting a particular risk. Yet given the <small>BJP</small>’s deep pockets, Mr Modi may also be able to entice parties away from the opposition to shore up his alliance.",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "For India three big questions now loom. First, can the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " form a stable government? The answer is, probably. The "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " will still be by far the biggest party in parliament, with more than twice as many seats as Congress. Unless there is a major rebellion within the party, Mr Modi is likely to be able to continue as prime minister. He will have to strike deals with two of his alliance partners, Telugu Desam and Janata Dal (United), two regional parties from the southern state of Andhra Pradesh and the eastern state of Bihar, respectively. Their leaders, Chandrababu Naidu and Nitish Kumar, will now emerge as kingmakers and attempt to extract favours from the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " on appointments, benefits for their states and policy. Both are already being courted by the opposition alliance. Mr Kumar, in particular, is notorious for "
+      },
+      {
+        "type": "external_link",
+        "children": [
+          {
+            "type": "text",
+            "value": "switching sides"
+          }
+        ],
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/asia/2024/01/28/indias-opposition-bloc-disintegrates"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": ", presenting a particular risk. Yet given the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": "’s deep pockets, Mr Modi may also be able to entice parties away from the opposition to shore up his alliance."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "scaps",
+        "index": 55,
+        "length": 3
+      },
+      {
+        "type": "scaps",
+        "index": 114,
+        "length": 3
+      },
+      {
+        "type": "scaps",
+        "index": 664,
+        "length": 3
+      },
+      {
+        "type": "external_link",
+        "index": 824,
+        "length": 15,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/asia/2024/01/28/indias-opposition-bloc-disintegrates"
+          }
+        ]
+      },
+      {
+        "type": "scaps",
+        "index": 885,
+        "length": 3
+      }
+    ]
+  },
+  {
+    "text": "The second question is how, once it is formed, that government might operate. Mr Modi’s favoured style is strongman executive rule with little debate in the cabinet or parliament. Now he will have to negotiate and make compromises. That will complicate policymaking, particularly a 100-day agenda that was expected to implement a currently stalled set of labour reforms and revamp policies intended to boost the manufacturing industry, including the government’s flagship industrial-subsidy scheme. Mr Modi may now feel he needs to pay more attention to the immediate economic needs of groups whose votes his party failed to win by unleashing a new wave of welfare schemes. A fear of less predictable policymaking, fewer reforms and a welfare splurge explains the stockmarket fall.",
+    "type": "PARAGRAPH",
+    "textHtml": "The second question is how, once it is formed, that government might operate. Mr Modi’s favoured style is strongman executive rule with little debate in the cabinet or parliament. Now he will have to negotiate and make compromises. That will complicate policymaking, particularly a 100-day agenda that was expected to implement a currently stalled set of labour reforms and revamp policies intended to boost the manufacturing industry, including the government’s <a href=\"https://www.economist.com/finance-and-economics/2024/05/16/narendra-modis-flagship-growth-scheme-is-off-to-a-sluggish-start\">flagship industrial-subsidy scheme</a>. Mr Modi may now feel he needs to pay more attention to the immediate economic needs of groups whose votes his party failed to win by unleashing a new wave of welfare schemes. A fear of less predictable policymaking, fewer reforms and a welfare splurge explains the stockmarket fall.",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "The second question is how, once it is formed, that government might operate. Mr Modi’s favoured style is strongman executive rule with little debate in the cabinet or parliament. Now he will have to negotiate and make compromises. That will complicate policymaking, particularly a 100-day agenda that was expected to implement a currently stalled set of labour reforms and revamp policies intended to boost the manufacturing industry, including the government’s "
+      },
+      {
+        "type": "external_link",
+        "children": [
+          {
+            "type": "text",
+            "value": "flagship industrial-subsidy scheme"
+          }
+        ],
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/finance-and-economics/2024/05/16/narendra-modis-flagship-growth-scheme-is-off-to-a-sluggish-start"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": ". Mr Modi may now feel he needs to pay more attention to the immediate economic needs of groups whose votes his party failed to win by unleashing a new wave of welfare schemes. A fear of less predictable policymaking, fewer reforms and a welfare splurge explains the stockmarket fall."
+      }
+    ],
+    "annotations": [
+      {
+        "type": "external_link",
+        "index": 463,
+        "length": 34,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/finance-and-economics/2024/05/16/narendra-modis-flagship-growth-scheme-is-off-to-a-sluggish-start"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "The final question is how the surprise result changes India in the long run. The idea of Mr Modi ruling for another ten years is now far less likely given his personal brand has dimmed, with the result that the succession question will loom large. While short-term economic policy making may deteriorate, over time a more open style of politics could be helpful. Many of the changes most needed by India’s economy—including reforms to land acquisition, the power sector and agriculture—require co-operation with state governments and politically important social groups like farmers. India’s reforms in the early-1990s and 2000s were made by coalition governments.",
+    "type": "PARAGRAPH",
+    "textHtml": "The final question is how the surprise result changes India in the long run. The idea of Mr Modi ruling for another ten years is now far less likely given his personal brand has dimmed, with the result that the succession question will loom large. While short-term economic policy making may deteriorate, over time a more open style of politics could be helpful. Many of the changes most needed by India’s economy—including reforms to land acquisition, the power sector and agriculture—require co-operation with state governments and politically important social groups like farmers. India’s reforms in the early-1990s and 2000s were made by coalition governments.",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "The final question is how the surprise result changes India in the long run. The idea of Mr Modi ruling for another ten years is now far less likely given his personal brand has dimmed, with the result that the succession question will loom large. While short-term economic policy making may deteriorate, over time a more open style of politics could be helpful. Many of the changes most needed by India’s economy—including reforms to land acquisition, the power sector and agriculture—require co-operation with state governments and politically important social groups like farmers. India’s reforms in the early-1990s and 2000s were made by coalition governments."
+      }
+    ],
+    "annotations": []
+  },
+  {
+    "text": "There is a danger that the disappointed leader may choose to double down on his more authoritarian tendencies and amplify his polarising religious rhetoric. All the same the fear that India might inexorably evolve towards a more autocratic form of government has receded: the BJP has failed to win enough seats to ram through constitutional changes; the opposition parties have been given a new lease of life; and debate and dissent will be reinvigorated. That may be the most lasting consequence of the 2024 general election.  ■",
+    "type": "PARAGRAPH",
+    "textHtml": "There is a danger that the disappointed leader may choose to double down on his more authoritarian tendencies and amplify his polarising religious rhetoric. All the same the fear that India might inexorably evolve towards a more autocratic form of government has receded: the <small>BJP</small> has failed to win enough seats to ram through constitutional changes; the opposition parties have been given a new lease of life; and debate and dissent will be reinvigorated. That may be the most lasting consequence of the 2024 general election.  <span class=\"ufinish\">■</span>",
+    "textJson": [
+      {
+        "type": "text",
+        "value": "There is a danger that the disappointed leader may choose to double down on his more authoritarian tendencies and amplify his polarising religious rhetoric. All the same the fear that India might inexorably evolve towards a more autocratic form of government has receded: the "
+      },
+      {
+        "type": "scaps",
+        "children": [
+          {
+            "type": "text",
+            "value": "BJP"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "value": " has failed to win enough seats to ram through constitutional changes; the opposition parties have been given a new lease of life; and debate and dissent will be reinvigorated. That may be the most lasting consequence of the 2024 general election.  "
+      },
+      {
+        "type": "ufinish",
+        "children": [
+          {
+            "type": "text",
+            "value": "■"
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "type": "scaps",
+        "index": 276,
+        "length": 3
+      },
+      {
+        "type": "ufinish",
+        "index": 528,
+        "length": 1
+      }
+    ]
+  },
+  {
+    "text": "Stay on top of our India coverage by signing up to Essential India, our free weekly newsletter.",
+    "type": "PARAGRAPH",
+    "textHtml": "<i>Stay on top of our India coverage by <a href=\"https://www.economist.com/newsletters/essential-india\">signing up to Essential India</a>, our free weekly newsletter.</i>",
+    "textJson": [
+      {
+        "type": "italic",
+        "children": [
+          {
+            "type": "text",
+            "value": "Stay on top of our India coverage by "
+          },
+          {
+            "type": "external_link",
+            "children": [
+              {
+                "type": "text",
+                "value": "signing up to Essential India"
+              }
+            ],
+            "attributes": [
+              {
+                "name": "href",
+                "value": "https://www.economist.com/newsletters/essential-india"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": ", our free weekly newsletter."
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "type": "italic",
+        "index": 0,
+        "length": 95
+      },
+      {
+        "type": "external_link",
+        "index": 37,
+        "length": 29,
+        "attributes": [
+          {
+            "name": "href",
+            "value": "https://www.economist.com/newsletters/essential-india"
+          }
+        ]
+      }
+    ]
+  }
+]
