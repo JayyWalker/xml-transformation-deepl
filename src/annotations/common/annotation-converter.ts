@@ -36,6 +36,8 @@ export interface AnnotationTagInstructions {
   onAnnotationEnd: (annotation: Annotation) => string;
 }
 
+export type AnnotationInstructions = Record<string, AnnotationTagInstructions>
+
 interface AnnotationConverterProps {
   converterMap: Record<string, AnnotationTagInstructions>;
 }

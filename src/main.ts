@@ -4,6 +4,9 @@ import { allComponents, type Component } from './validation/components.ts'
 import {inspect} from 'util'
 import { htmlTransformer } from './annotations/html-annotations.ts'
 import { log } from './log.ts'
+import { xmlBody, xmlTransform } from './annotations/xml-body.ts'
+import xmlFormat from 'xml-formatter'
+
 
 function getJson() {
   const slimJson = modi.map(component => {
@@ -14,6 +17,7 @@ function getJson() {
       annotations: component.annotations,
     }
 
+    // @ts-ignore
     if (component?.components) {
       // @ts-ignore
       result.components = component?.components
@@ -27,8 +31,9 @@ function getJson() {
   return slimJson
 }
 
-async function main () {
-  let body: Component[] | undefined = undefined;
+async function generateXml() {
+  // let body: Component[] | undefined = undefined;
+  let body: any
 
   const input = getJson()
 
@@ -37,14 +42,21 @@ async function main () {
   // console.log(parsedBody.data)
 
   if (parsedBody.success && parsedBody.data) {
-    body = await Promise.all(parsedBody.data.map(component => htmlTransformer(component)))
+    // body = await Promise.all(parsedBody.data.map(component => htmlTransformer(component)))
+    body = await xmlBody(parsedBody.data)
   } else {
     console.error('UNDEFINED DATA AFTER PARSE')
     console.error(parsedBody.error)
     return
   }
 
-  log(body)
+  const result = xmlFormat(body)
+
+  console.log(result)
+  // log(body)
+}
+
+async function main () {
 }
 
 main()

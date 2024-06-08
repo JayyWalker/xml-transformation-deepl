@@ -1,4 +1,9 @@
-import { type Annotation, AnnotationConverter } from './common/annotation-converter.ts'
+import {
+  type Annotation,
+  AnnotationConverter,
+  type AnnotationInstructions,
+  type AnnotationTagInstructions,
+} from './common/annotation-converter.ts'
 import type { Component } from '../validation/components.ts'
 import { LookupService } from '../services/LookupService.ts'
 
@@ -64,7 +69,7 @@ export async function htmlTransformer (component: Component): Promise<Component>
   return component
 }
 
-export const htmlAnnotationMap = {
+export const htmlAnnotationMap: AnnotationInstructions = {
   linebreak: {
     onAnnotationStart: () => '<br>',
     onAnnotationEnd: () => '',
@@ -134,12 +139,7 @@ export const htmlAnnotationMap = {
   },
 };
 
-type AnnotationEntry = {
-  onAnnotationStart: () => string,
-  onAnnotationEnd: () => string,
-}
-
-const xmlAnnotationMap: Record<string, AnnotationEntry> = {
+const xmlAnnotationMap: AnnotationInstructions = {
   italic: {
     onAnnotationStart: () => '<italic>',
     onAnnotationEnd: () => '</italic>'
