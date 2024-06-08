@@ -6,6 +6,7 @@ export const paragraphComponentSchema = z.object({
   text: z.string(),
   annotations: z.array(annotationSchema),
   textHtml: z.string().optional(),
+  textXml: z.string().optional(),
   textJson: z.any().optional(),
 });
 
@@ -18,6 +19,7 @@ export const annotatedTextSchema = z.object({
   text: z.string(),
   annotations: z.array(annotationSchema),
   textHtml: z.string().optional(),
+  textXml: z.string().optional(),
   textJson: z.any().optional(),
 });
 
@@ -36,6 +38,7 @@ export const pullQuoteComponentSchema = z.object({
   text: z.string(),
   annotations: z.array(annotationSchema),
   textHtml: z.string().optional(),
+  textXml: z.string().optional(),
   textJson: z.any().optional(),
 });
 
@@ -44,6 +47,7 @@ export const blockQuoteComponentSchema = z.object({
   text: z.string(),
   annotations: z.array(annotationSchema),
   textHtml: z.string().optional(),
+  textXml: z.string().optional(),
   textJson: z.any().optional(),
 });
 
@@ -62,6 +66,7 @@ export const bookInfoComponentSchema = z.object({
   text: z.string(),
   annotations: z.array(annotationSchema),
   textHtml: z.string().optional(),
+  textXml: z.string().optional(),
   textJson: z.any().optional(),
 });
 

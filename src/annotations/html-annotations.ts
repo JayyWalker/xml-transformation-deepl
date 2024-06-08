@@ -17,6 +17,7 @@ export async function htmlTransformer (component: Component): Promise<Component>
     case 'BOOK_INFO':
       if ( !component.annotations.some((annotation) => annotation.type == 'internal_link')) {
         component.textHtml = htmlAnnotationConverter.convertText(component.text, component.annotations)
+        component.textXml = xmlAnnotationConverter.convertText(component.text, component.annotations)
         // component.textJson = JsonConverter.convertText(component.text, component.annotations);
       }
       break
@@ -133,4 +134,18 @@ export const htmlAnnotationMap = {
   },
 };
 
+type AnnotationEntry = {
+  onAnnotationStart: () => string,
+  onAnnotationEnd: () => string,
+}
+
+const xmlAnnotationMap: Record<string, AnnotationEntry> = {
+  italic: {
+    onAnnotationStart: () => '<italic>',
+    onAnnotationEnd: () => '</italic>'
+  }
+}
+
 export const htmlAnnotationConverter = new AnnotationConverter({ converterMap: htmlAnnotationMap });
+
+const xmlAnnotationConverter = new AnnotationConverter({ converterMap: xmlAnnotationMap })
