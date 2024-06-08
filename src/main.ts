@@ -3,10 +3,7 @@ import { z } from 'zod'
 import { allComponents, type Component } from './validation/components.ts'
 import {inspect} from 'util'
 import { htmlTransformer } from './annotations/html-annotations.ts'
-
-function log(input: object): void {
-  console.log(inspect(input, false, null, true /* enable colors */))
-}
+import { log } from './log.ts'
 
 function getJson() {
   const slimJson = modi.map(component => {
