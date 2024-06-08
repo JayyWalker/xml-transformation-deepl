@@ -1,8 +1,8 @@
 import modi from './../articles/a-shock-election-result-in-india-humbles-narendra-modi/article-body.json'
 import { z } from 'zod'
 import { allComponents, type Component } from './validation/components.ts'
-import { transformer } from './annotations/component-transformer.ts'
 import {inspect} from 'util'
+import { htmlTransformer } from './annotations/html-annotations.ts'
 
 function log(input: object): void {
   console.log(inspect(input, false, null, true /* enable colors */))
@@ -40,7 +40,7 @@ async function main () {
   // console.log(parsedBody.data)
 
   if (parsedBody.success && parsedBody.data) {
-    body = await Promise.all(parsedBody.data.map(component => transformer(component)))
+    body = await Promise.all(parsedBody.data.map(component => htmlTransformer(component)))
   } else {
     console.error('UNDEFINED DATA AFTER PARSE')
     console.error(parsedBody.error)

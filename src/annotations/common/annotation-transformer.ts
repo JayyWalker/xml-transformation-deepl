@@ -1,6 +1,6 @@
 import type { Annotation } from './annotation-converter.ts'
-import type { Context } from './context.ts'
-import { ArticleService } from '../services/ArticleService.ts'
+import type { Context } from '../../context.ts'
+import { ArticleService } from '../../services/ArticleService.ts'
 
 const allowedAnnotations = [
   'linebreak',

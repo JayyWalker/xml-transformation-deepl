@@ -1,9 +1,8 @@
 import { splitStringAtPoints, interleaveArrays } from './utilities.ts';
 import { cloneDeep } from 'lodash';
 import { createSpanTree, type SpanTree, flatten } from './span-tree.ts';
-import { annotationMap } from './annotation-map.ts'
 import { z } from 'zod'
-import type { annotationSchema } from '../validation/annotation.ts'
+import type { annotationSchema } from '../../validation/annotation.ts'
 
 export interface Tag {
   tag: string;
@@ -85,5 +84,3 @@ export class AnnotationConverter {
     return interleaveArrays(splitValues, tagValues).join('');
   }
 }
-
-export const annotationConverter = new AnnotationConverter({ converterMap: annotationMap });
