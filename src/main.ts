@@ -6,6 +6,8 @@ import { htmlTransformer } from './annotations/html-annotations.ts'
 import { log } from './log.ts'
 import { xmlBody, xmlTransform } from './annotations/xml-body.ts'
 import xmlFormat from 'xml-formatter'
+import { resolve } from 'path'
+import { parseString } from './xml'
 
 
 function getJson() {
@@ -56,7 +58,23 @@ async function generateXml() {
   // log(body)
 }
 
+async function generateAnnotations() {
+  const filePath = resolve('articles/a-shock-election-result-in-india-humbles-narendra-modi/text-strings-example-modi.xml')
+
+  const file = Bun.file(filePath)
+
+  const rawXml = await file.text()
+
+  const parsedXml = parseString(rawXml)
+
+  // console.log(parsedXml.document.entries())gt
+  log(parsedXml)
+}
+
 async function main () {
+  await generateAnnotations()
+
+  // await generateXml()
 }
 
 main()

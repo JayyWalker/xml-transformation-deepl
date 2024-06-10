@@ -13,6 +13,12 @@ export async function xmlTransform(component: Component): Promise<string | undef
     case 'ORDERED_LIST':
     case 'UNORDERED_LIST':
       return '<list></list>'
+    case 'INFOBOX':
+      const nestedComponents = await Promise.all(component.components.map(component => xmlTransform(component)))
+
+      const components = nestedComponents.map(component => `<components>${component}</components>`)
+
+      return `<infobox>${components.join('')}</infobox>`
     default:
       return undefined
   }
